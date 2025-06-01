@@ -2,7 +2,7 @@ from models.skip import create_skip_connection_model
 from utils.common_utils import *
 from utils.model_utils import *
 
-import optuna
+# import optuna
 import torch
 import torch.optim
 from torch.optim import Adam
