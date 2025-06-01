@@ -1,0 +1,6 @@
+# all pycache subfolders
+**/__pycache__/
+.ipynb_checkpoints/
+
+# data folder
+data/
